@@ -1,4 +1,3 @@
-local love
 
 function love.conf(t)
     t.identity = "pong-boss"           -- Nome da pasta de save (opcional)
